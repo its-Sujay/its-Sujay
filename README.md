@@ -67,16 +67,12 @@
 
 ---
 
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sujay-r-4a63b7254/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sujayragothaman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+# 📬 Get In Touch
 
+- 📧 Email: **sujayragothaman@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/SujayR](https://www.linkedin.com/in/sujay-r-4a63b7254/)  
+- 🏆 Codeforces: [codeforces.com/profile/Sujay_27](https://codeforces.com/profile/Sujay_27)  
+- 💻 LeetCode: [leetcode.com/CF_greater_than_LC](https://leetcode.com/CF_greater_than_LC)  
 ---
 
 ✨ *"Knowledge is infinite, and curiosity is the fuel that keeps me going."*  
