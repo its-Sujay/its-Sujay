@@ -1,6 +1,6 @@
 # Hi there, I'm Sujay 👋  
 
-💻 **4th Year CS Student @ Amrita School of Computing**  
+💻 **4th Year CS Student @ Amrita School of Engineering,Bengaluru**  
 🌟 Passionate about **DSA | Web Development | AI | Problem Solving**  
 📚 Avid reader | Lifelong learner | Curious mind driven by first principles  
 
