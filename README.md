@@ -10,7 +10,7 @@
 - 🌱 Love exploring **new concepts deeply from first principles**  
 - 🧩 Problem solving is my way of thinking — puzzles, DSA, or real-world systems  
 - 📖 Books, articles & fresh ideas inspire me every day  
-- ♟️ Chess enthusiast & strategy thinker  
+- ♟️ Chess enthusiast 
 
 ---
 
