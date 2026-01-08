@@ -44,18 +44,7 @@
 
 ---
 
-## 💡 Problem Solving
-<p align="center">
-  <a href="https://codeforces.com/profile/Sujay_27">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sujay_27" 
-         alt="Codeforces Stats" height="220"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- adds big spacing -->
-  <a href="https://leetcode.com/u/CF_greater_than_LC/">
-    <img src="https://leetcard.jacoblin.cool/CF_greater_than_LC?theme=dark&font=Baloo%202&ext=activity" 
-         alt="LeetCode Stats" height="220"/>
-  </a>
-</p>
+
 
 # 📬 Get In Touch
 
